@@ -1,0 +1,4 @@
+id,name,email,password,type,orgId,verified
+54e0c97c-8c3c-4350-a074-6fc9f3c2274a,Alice Student,alice@yorku.ca,pass,STUDENT,S1234567,true
+73ca1c51-a829-4f0e-8ee8-f8cd3db06699,Chief Event Coordinator,cec@yorku.ca,cec123,ADMIN,ENG,true
+4c6ba14b-8139-4f67-9112-e873df4a1c7f,Admin One,admin@yorku.ca,admin123,ADMIN,ENG,true
